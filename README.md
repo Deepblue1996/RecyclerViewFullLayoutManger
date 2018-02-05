@@ -7,7 +7,7 @@
 
 ![Image text](https://raw.githubusercontent.com/Deepblue1996/RecyclerViewFullLayoutManger/master/20180205102241.jpg)
 
-How to
+# How to
 
 To get a Git project into your build:
 
